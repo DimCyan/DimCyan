@@ -13,4 +13,4 @@
 
 - 📫 How to reach me **simon@codeabug.com**
 
-- ⚡ Fun fact **the WDC in the SimonWDC represents the abbreviation of my Chinese name**
+- ⚡ Fun fact **WDC in the SimonWDC represents the abbreviation of my Chinese name**
