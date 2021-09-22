@@ -12,3 +12,5 @@
 - 🧠 I am currently learning **JavaScript/Go-lang**
 
 - 📫 How to reach me **simon@codeabug.com**
+
+- ⚡ Fun fact **the WDC in the SimonWDC represents the abbreviation of my Chinese name**
